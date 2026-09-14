@@ -42,8 +42,8 @@ Structured exercises, each targeting a different core gameplay system:
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=sgleoni&show_icons=true&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgleoni&layout=compact&hide_border=true" />
+<img height="160" src="https://github-stats-extended.vercel.app/api?username=sgleoni&show_icons=true&hide_border=true" />
+<img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sgleoni&layout=compact&hide_border=true" />
 
 </div>
 
