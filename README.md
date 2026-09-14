@@ -25,7 +25,7 @@ I focus on the code that makes a game work: player controllers, game state, AI o
 | [**Shogi**](https://github.com/sgleoni/Shogi) | Digital implementation of the Japanese board game Shogi | Board state, move validation, rules engine |
 | [**ConnectFour**](https://github.com/sgleoni/ConnectFour) | Connect Four with full game logic | Win-condition checking, turn logic in C++ |
 
-## Coursework projects — GameDev.tv (Complete Unity 2D/3D Developer)
+## Coursework projects — GameDev.tv (Complete Unity 2D Developer)
 
 Structured exercises, each targeting a different core gameplay system:
 
@@ -46,7 +46,3 @@ Structured exercises, each targeting a different core gameplay system:
 <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sgleoni&layout=compact&hide_border=true" />
 
 </div>
-
-## Contact
-
-Open to discussing Unity, gameplay programming, or opportunities — feel free to reach out.
